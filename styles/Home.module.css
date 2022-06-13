@@ -108,9 +108,27 @@
   margin-left: 0.5rem;
 }
 
+.slider {
+
+  background-color: #F2EAE1;
+  width: 100%;
+  margin-top: 55px;
+}
+
+.header {
+
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
     flex-direction: column;
   }
 }
+
+

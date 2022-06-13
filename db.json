@@ -1,0 +1,49 @@
+{
+
+    "products": [
+
+        {
+            "id": 1,
+            "src": "1.jpg",
+            "title": "Caramel",
+            "price": "EGP 225",
+            "availability": "Out of Stock"
+        },
+        {
+            "id": 2,
+            "src": "2.jpg",
+            "title": "Cupcake",
+            "price": "EGP 225",
+            "availability": "In Stock"
+        },
+        {
+            "id": 3,
+            "src": "3.jpg",
+            "title": "Cupcakes",
+            "price": "EGP 225",
+            "availability": "In Stock"
+        },
+        {
+            "id": 4,
+            "src": "4.jpg",
+            "title": "Macaron",
+            "price": "EGP 225",
+            "availability": "Out of Stock"
+        },
+        {
+            "id": 5,
+            "src": "5.jpg",
+            "title": "Cupcake",
+            "price": "EGP 225",
+            "availability": "In Stock"
+        },
+        {
+            "id": 6,
+            "src": "6.jpg",
+            "title": "Cupcakes",
+            "price": "EGP 225",
+            "availability": "Out of Stock"
+        }
+
+    ]
+}

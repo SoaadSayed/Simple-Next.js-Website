@@ -1,0 +1,24 @@
+
+.slider {
+
+    background-color: #F2EAE1;
+    width: 100%;
+    margin-top: 55px;
+}
+
+.header {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+  
+.text {
+
+    font-size: 18px;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    text-transform: lowercase;
+  
+}
